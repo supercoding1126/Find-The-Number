@@ -1,3 +1,8 @@
+# Find the number
+# By SuperCoding
+# Python 3.8.5
+# Mac os
+
 import random
 
 
